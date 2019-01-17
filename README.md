@@ -6,8 +6,8 @@
 - [x] Challenge1
 - [x] Challenge2
 - [x] Challenge3
-- [] Challenge4
+- [ ] Challenge4
 - [x] Challenge5
-- [] Challenge6
-- [] Challenge7
-- [] Challenge8
+- [ ] Challenge6
+- [ ] Challenge7
+- [ ] Challenge8
