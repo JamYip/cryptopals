@@ -8,6 +8,6 @@
 - [x] Challenge3
 - [x] Challenge4
 - [x] Challenge5
-- [ ] Challenge6
-- [ ] Challenge7
-- [ ] Challenge8
+- [x] Challenge6
+- [ ] Challenge7: 列混淆变换未实现
+- [x] Challenge8
